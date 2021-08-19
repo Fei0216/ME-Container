@@ -1,4 +1,4 @@
-module github.com/almutawm/appsContainers/faceDetection
+module github.com/Fei0216/appsContainers/faceDetection
 
 go 1.14
 
